@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giulio Agnello
 
-### 💻 Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Curious Mind
+### 💻| FullStack Dev | Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Curious Mind
 
 Passionate about building clean, intuitive and elegant digital experiences.
 
