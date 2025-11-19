@@ -16,7 +16,7 @@ React.js · Vite · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
 
 **Backend**
 
-Express.js .mySQL
+Express.js · mySQL
 
 **Tools & Concepts:**  
 REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing · LocalStorage · Git & GitHub
@@ -30,11 +30,13 @@ REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing ·
 
 ### 🌍 **DreamExperience – Travel Comparator Platform**
 
-| 🌍 **[DreamExperience - ReactJs](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)** | ⏳ **Nuovo Progetto in Arrivo** |
-| :------------------------------------------------------------------------------------------------------: | :-----------------------------: |
+### 🕹️ **BoolStop – Gaming E-Commerce Platform**
 
-| <a href="/mnt/data/cover_dream_experience.jpg" target="_blank"> <img src="./cover_dream_experience.jpg" title="Click destro → Apri in una nuova scheda per visualizzare l'anteprima" /> </a> <br>  
-Piattaforma per il **confronto di destinazioni di viaggio**, sviluppata in **React.js**, con **Context API**, gestione **wishlist & carrello**, **sorting**, **debounce**, **LocalStorage** e ottimizzazioni tramite **useCallback / useMemo**. <br> | <br><br>In fase di sviluppo… 🚀 |
+|                                                                                   🌍 **[DreamExperience](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)**                                                                                   |                                                                                🕹️ **[BoolStop](https://github.com/GiulioAgnello/BoolStopFrontEnd)**                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./cover_dream_experience.jpg" width="280" /> <br> Piattaforma per il **confronto di destinazioni di viaggio**, sviluppata in **React.js** con **Context API**, gestione **wishlist & carrello**, **sorting** e ottimizzazioni **useCallback / useMemo**. | <img src="./1752845455654.jpeg" width="280" /> <br> **Gaming e-commerce platform** sviluppata in 2 settimane. Progetto full-stack che unisce **database design**, **server Express.js** e **frontend React.js** con focus su UX/UI. |
+|                                                                                                       **🛠 Tech:** React.js, Context API, CSS3, LocalStorage                                                                                                        |                                                                                    **🛠 Tech:** React.js, Express.js, MySQL, Bootstrap, REST API                                                                                     |
+|                                                                              **🔗 [Demo](link-demo) \| [Code](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)**                                                                              |                                                **🔗 [Frontend](https://github.com/GiulioAgnello/BoolStopFrontEnd) \| [Backend](https://github.com/GiulioAgnello/boolstop_express)**                                                 |
 
 ---
 
