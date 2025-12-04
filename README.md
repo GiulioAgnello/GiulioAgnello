@@ -42,7 +42,12 @@ REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing ·
 
 ### 📈 GitHub Stats
 
-![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulioAgnello&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioAgnello&layout=compact&theme=radical)
+[![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiulioAgnello&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=GiulioAgnello&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioAgnello&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioAgnello&layout=compact&theme=radical)
+
+<!-- Fallback (if above fails): -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GiulioAgnello&theme=radical)](https://streak-stats.demolab.com?user=GiulioAgnello&theme=radical)
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiulioAgnello&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiulioAgnello&theme=radical)
 
 ---
