@@ -16,7 +16,7 @@ React.js · Vite · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
 
 **Backend**
 
-Express.js · mySQL
+Express.js · mySQL · C# · .NET · SQLite
 
 **Tools & Concepts:**  
 REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing · LocalStorage · Git & GitHub
@@ -35,7 +35,7 @@ REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing ·
 |                                                                                   🌍 **[DreamExperience](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)**                                                                                   |                                                                                🕹️ **[BoolStop](https://github.com/GiulioAgnello/BoolStopFrontEnd)**                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="./cover_dream_experience.jpg" width="280" /> <br> Piattaforma per il **confronto di destinazioni di viaggio**, sviluppata in **React.js** con **Context API**, gestione **wishlist & carrello**, **sorting** e ottimizzazioni **useCallback / useMemo**. | <img src="./1752845455654.jpeg" width="280" /> <br> **Gaming e-commerce platform** sviluppata in 2 settimane. Progetto full-stack che unisce **database design**, **server Express.js** e **frontend React.js** con focus su UX/UI. |
-|                                                                                                       **🛠 Tech:** React.js, Context API, CSS3, LocalStorage                                                                                                        |                                                                                    **🛠 Tech:** React.js, Express.js, MySQL, Bootstrap, REST API                                                                                     |
+|                                                                                                       **🛠 Tech:** React.js, Context API, CSS3, LocalStorage                                                                                                       |                                                                                    **🛠 Tech:** React.js, Express.js, MySQL, Bootstrap, REST API                                                                                    |
 |                                                    **🔗 [Demo](https://progetto-finale-spec-frontend-front-theta.vercel.app/) \| [Code](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)**                                                    |                                                **🔗 [Frontend](https://github.com/GiulioAgnello/BoolStopFrontEnd) \| [Backend](https://github.com/GiulioAgnello/boolstop_express)**                                                 |
 
 ---
