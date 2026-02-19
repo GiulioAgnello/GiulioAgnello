@@ -12,7 +12,7 @@ Dopo una laurea in _Industrial Design_, ho ampliato le mie competenze nel mondo 
 ## 🚀 Tech Stack
 
 **Frontend:**  
-React.js · Vite · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
+React.js · Angular.js · Vite · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
 
 **Backend**
 
