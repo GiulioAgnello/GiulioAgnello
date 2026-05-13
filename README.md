@@ -38,6 +38,16 @@ REST API · Context API · Hooks (useMemo, useCallback, useEffect) · Routing ·
 |                                                                                                       **🛠 Tech:** React.js, Context API, CSS3, LocalStorage                                                                                                       |                                                                                    **🛠 Tech:** React.js, Express.js, MySQL, Bootstrap, REST API                                                                                    |
 |                                                    **🔗 [Demo](https://progetto-finale-spec-frontend-front-theta.vercel.app/) \| [Code](https://github.com/GiulioAgnello/progetto-finale-spec-frontend-front)**                                                    |                                                **🔗 [Frontend](https://github.com/GiulioAgnello/BoolStopFrontEnd) \| [Backend](https://github.com/GiulioAgnello/boolstop_express)**                                                 |
 
+### 🏭 **Colmac-Docs – Industrial Catalog & Document Portal**
+
+### 🏨 **Le Mura degli Angeli – BnB Salento**
+
+| 🏭 **[Colmac-Docs](https://github.com/GiulioAgnello/colmac-manuals)** | 🏨 **[Le Mura degli Angeli](https://github.com/GiulioAgnello/lemura-bnb)** |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| <img src="./colmac_docs.png" width="280" /> <br> Portale aziendale per la **gestione di cataloghi e documenti tecnici**. Automazione nel **caricamento e catalogazione** dei file per tipo di macchinario e linea di prodotto, con frontend **React.js** su CMS **WordPress headless**. | <img src="./lemuradegliangeli.png" width="280" /> <br> Portale per un **BnB nel Salento** con **booking engine custom**, visualizzazione e prenotazione camere in tempo reale. Architettura **headless WordPress** + **React.js** per massima flessibilità e performance. |
+| **🛠 Tech:** React.js, Headless WordPress, REST API, CSS3 | **🛠 Tech:** React.js, Headless WordPress, REST API, CSS3 |
+| **🔗 [Live](https://docs.colmac-italia.com/#/) \| [Code](https://github.com/GiulioAgnello/colmac-manuals)** | **🔗 [Live](https://www.lemuradegliangeli.it/) \| [Code](https://github.com/GiulioAgnello/lemura-bnb)** |
+
 ---
 
 ### 📈 GitHub Stats
