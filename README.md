@@ -2,7 +2,7 @@
 
 # Hi, I'm Giulio 👋
 
-### Junior Front-End Developer · UI/UX Enthusiast · Industrial Designer turned Coder
+### Front-End Developer · UI/UX Enthusiast · Industrial Designer turned Coder
 
 _I build clean, fast and intuitive web experiences — where design thinking meets modern frontend engineering._
 
